@@ -75,10 +75,10 @@ This selection led us to the the 29 following features:
 cold, occupation, nervousness, royalty, wealthy, blue collar job, college, optimism, real estate, home, divine, reading, leader, celebration, violence, military, air travel, meeting, urban, appearance, warmth, youth, politics, breaking, power, terrorism, negative emotion, children, I
 
 ### tagADA-team members contribution
+* Estelle : Exploratory Data Analysis, Data visualization, PCA
 * Luca : EDA, pre-processing, low variance feature selection, ReadMe
 * Melissa : Data story, PCA, data visualization, 
 * Paul : Feature selection, pre-processing 
-* Estelle : Data story, data visualization
 
 
 
